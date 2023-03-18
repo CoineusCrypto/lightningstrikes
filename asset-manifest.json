@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/static/js/main.b17195c0.js",
+    "static/media/zeus_bg.png": "/static/media/zeus_bg.c108748cc024bc201063.png",
+    "index.html": "/index.html",
+    "main.b17195c0.js.map": "/static/js/main.b17195c0.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b17195c0.js"
+  ]
+}
