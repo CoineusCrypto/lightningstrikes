@@ -1,11 +1,19 @@
 {
   "files": {
-    "main.js": "/static/js/main.b17195c0.js",
-    "static/media/zeus_bg.png": "/static/media/zeus_bg.c108748cc024bc201063.png",
+    "main.js": "/static/js/main.c4f83b4e.chunk.js",
+    "main.js.map": "/static/js/main.c4f83b4e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.40a96c1f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.40a96c1f.js.map",
+    "static/js/2.671942e9.chunk.js": "/static/js/2.671942e9.chunk.js",
+    "static/js/2.671942e9.chunk.js.map": "/static/js/2.671942e9.chunk.js.map",
     "index.html": "/index.html",
-    "main.b17195c0.js.map": "/static/js/main.b17195c0.js.map"
+    "static/js/2.671942e9.chunk.js.LICENSE.txt": "/static/js/2.671942e9.chunk.js.LICENSE.txt",
+    "static/media/logo192.e5433bbf.png": "/static/media/logo192.e5433bbf.png",
+    "static/media/zeus_bg.c108748c.png": "/static/media/zeus_bg.c108748c.png"
   },
   "entrypoints": [
-    "static/js/main.b17195c0.js"
+    "static/js/runtime-main.40a96c1f.js",
+    "static/js/2.671942e9.chunk.js",
+    "static/js/main.c4f83b4e.chunk.js"
   ]
 }
